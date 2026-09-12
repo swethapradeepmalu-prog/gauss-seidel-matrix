@@ -6,7 +6,7 @@
 An interactive, high-precision numerical web application built for a first-year BTech Computer Science & Engineering (CSE) Mathematics assignment. This application demonstrates the **Gauss-Seidel iterative method** for solving a system of linear algebraic equations ($Ax = b$).
 
 ## 🌐 Live Web Application
-👉 [Click here to use the Live Running Calculator](PASTE_YOUR_NETLIFY_LINK_HERE)
+👉 [Click here to use the Live Running Calculator]https://github.com/swethapradeepmalu-prog/gauss-seidel-matrix.git
 
 ## 🧮 Project Highlights & Features
 * **Element-by-Element Tracking:** Unlike static row-based calculators, this engine explicitly tracks and displays intermediate numerical values *immediately* after each individual variable ($x_1, x_2, x_3$) is updated within a single iteration step.
